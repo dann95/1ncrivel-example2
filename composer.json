@@ -1,0 +1,12 @@
+{
+    "name": "dann95/1ncrivel-example2",
+    "authors": [
+        {
+            "name": "Daniel Rubin",
+            "email": "danielrubin95@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "files": ["source/src.php"]
+    }
+}
